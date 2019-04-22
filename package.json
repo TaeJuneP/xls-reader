@@ -2,7 +2,7 @@
   "name": "xls-reader",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/TaeJuneP/xls-reader/",
+  "homepage": "https://taejuneP.github.io/xls-reader/",
   "dependencies": {
     "core-js": "^3.0.1",
     "dataframe-js": "^1.4.1",
