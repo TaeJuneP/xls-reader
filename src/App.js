@@ -10,7 +10,7 @@ class App extends Component {
   notify = () =>{
     toast("변경 완료 다운 받으세요", {
       position: "bottom-center",
-      autoClose: 3000,
+      autoClose: 1000,
       hideProgressBar: true,
       closeOnClick: false,
       pauseOnHover: false,
