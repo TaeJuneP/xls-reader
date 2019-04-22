@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "core-js": "^3.0.1",
+    "dataframe-js": "^1.4.1",
+    "gh-pages": "^2.0.1",
+    "pandas-js": "^0.2.4",
     "react": "^16.8.6",
+    "react-csv": "^1.1.1",
+    "react-csv-reader": "^1.2.2",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
