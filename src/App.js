@@ -5,10 +5,10 @@ import { CSVLink, CSVDownload } from "react-csv";
 import styled from "styled-components";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-
+var k=0;
 class App extends Component {
   notify = () =>{
-    toast("변경 완료 다운 받으세요", {
+    toast(k+"개 변경 완료 다운 받으세요", {
       position: "bottom-center",
       autoClose: 1000,
       hideProgressBar: true,
@@ -125,12 +125,14 @@ class App extends Component {
     for (var i = 0; i < data.length; i++) {
       if (data[i][col] === before) {
         data[i][col] = after;
+        k++;
       }
     }
     this.setState({
       inputdata: data
     });
     this.notify();
+    k=0;
   };
 }
 const DataList = styled.div`
