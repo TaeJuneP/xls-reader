@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/xls-reader/precache-manifest.b5cca3d540303974be95e59188c8509f.js"
+  "/xls-reader/precache-manifest.66c90fa0bf63f46e6f5a1ef4eb3cd4a8.js"
 );
 
 workbox.clientsClaim();

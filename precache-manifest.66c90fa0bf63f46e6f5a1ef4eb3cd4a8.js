@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/xls-reader/static/js/runtime~main.efbede7a.js"
   },
   {
-    "revision": "72d613250e3ed8b12fc0",
-    "url": "/xls-reader/static/js/main.3d745557.chunk.js"
+    "revision": "0702076cddec86be3855",
+    "url": "/xls-reader/static/js/main.18631f4b.chunk.js"
   },
   {
     "revision": "d5c32e55b9fcec3d3fb7",
     "url": "/xls-reader/static/js/2.41de5005.chunk.js"
   },
   {
-    "revision": "72d613250e3ed8b12fc0",
+    "revision": "0702076cddec86be3855",
     "url": "/xls-reader/static/css/main.4abb5d89.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/xls-reader/static/css/2.5502377c.chunk.css"
   },
   {
-    "revision": "758a64bc1a75c84242f72ce82a5d263c",
+    "revision": "9a5743bc7aa3326c91c7a37d4e43f563",
     "url": "/xls-reader/index.html"
   }
 ];
